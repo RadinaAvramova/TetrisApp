@@ -1,2 +1,1 @@
-# TetrisApp
-Tetris App
+# Tetris App
